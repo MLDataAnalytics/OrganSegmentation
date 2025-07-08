@@ -2,7 +2,10 @@
 
 Official code for our CVPR 2024 paper [Versatile Medical Image Segmentation Learned from Multi-Source Datasets via Model Self-Disambiguation](https://arxiv.org/abs/2311.10696)
 
-We will provide detailed instructions for using the code soon!
+
+The method was developed for segmenting abdominal organs. ![abdominal organs](https://github.com/MLDataAnalytics/OrganSegmentation/blob/main/Figures/visual_comparision_label.png)
+
+Detailed instructions for using the code will come soon!
 
 If you find our work useful/inspiring, please cite our work:
 ```
