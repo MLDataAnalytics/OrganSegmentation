@@ -1,7 +1,6 @@
 # VersatileSegmentation
 
-Official code for our CVPR 2024 paper [Versatile Medical Image Segmentation Learned from Multi-Source Datasets via Model Self-Disambiguation](https://arxiv.org/abs/2311.10696)
-
+Official code for our CVPR 2024 paper [Versatile Medical Image Segmentation Learned from Multi-Source Datasets via Model Self-Disambiguation](https://arxiv.org/abs/2311.10696).
 
 The method was developed for segmenting abdominal organs. ![abdominal organs](https://github.com/MLDataAnalytics/OrganSegmentation/blob/main/Figures/visual_comparision_label.png)
 
