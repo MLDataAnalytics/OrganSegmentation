@@ -56,3 +56,10 @@ If you find our work useful or inspiring for your research, please consider citi
     year      = {2024},
     pages     = {11747-11756}
 }
+```
+
+---
+
+## 🙏 Acknowledgment
+
+This project has been generously supported in part by the National Institutes of Health (NIH) through grants **AG066650**, **U24NS130411**, and **R01EB022573**. We are grateful for their support in making this research possible.
